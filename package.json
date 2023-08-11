@@ -81,8 +81,8 @@
     "zone.js": "0.10.3"
   },
   "devDependencies": {
-    "@angular-devkit/build-angular": "0.1100.5",
-    "@angular/cli": "^11.0.0",
+    "@angular-devkit/build-angular": "16.2.0",
+    "@angular/cli": "^16.2.0",
     "@angular/compiler-cli": "^11.0.0",
     "@angular/language-service": "^11.0.0",
     "@types/jasmine": "^2.8.17",
@@ -103,7 +103,7 @@
     "karma-jasmine": "2.0.1",
     "karma-jasmine-html-reporter": "1.4.2",
     "mocha": "8.2.0",
-    "node-sass": "4.13.1",
+    "node-sass": "9.0.0",
     "protractor": "7.0.0",
     "rmrf-promise": "1.1.0",
     "should": "13.2.3",
