@@ -102,7 +102,7 @@
     "karma-coverage-istanbul-reporter": "2.0.5",
     "karma-jasmine": "2.0.1",
     "karma-jasmine-html-reporter": "1.4.2",
-    "mocha": "8.2.0",
+    "mocha": "10.2.0",
     "node-sass": "4.13.1",
     "protractor": "7.0.0",
     "rmrf-promise": "1.1.0",
